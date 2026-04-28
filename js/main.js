@@ -105,6 +105,22 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // — Inline newsletter after first paragraph —
+    const articleBody = document.getElementById('articleBody');
+    if (articleBody) {
+        const firstP = articleBody.querySelector('p');
+        if (firstP) {
+            const bar = document.createElement('div');
+            bar.className = 'article-inline-newsletter';
+            bar.innerHTML = '<div class="article-inline-newsletter__text"><strong>Restez à l\'atelier</strong> — Recevez le meilleur chaque semaine.</div><form><input type="email" placeholder="votre@email.com" required><button type="submit">S\'abonner</button></form>';
+            firstP.after(bar);
+            bar.querySelector('form').addEventListener('submit', (e) => {
+                e.preventDefault();
+                bar.innerHTML = '<div class="article-inline-newsletter__text"><strong>Merci !</strong> Vous êtes inscrit(e).</div>';
+            });
+        }
+    }
+
     // — Newsletter form —
     const newsletterForms = document.querySelectorAll('.cta__form');
     newsletterForms.forEach(form => {
