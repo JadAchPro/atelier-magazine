@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://atelier-magazine.com/</loc>
-        <lastmod>2026-04-15</lastmod>
+        <lastmod>2026-04-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://atelier-magazine.com/portrait-de-maison/mbf-horlogerie/</loc>
+        <lastmod>2026-04-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://atelier-magazine.com/portrait-de-maison/sylvaine-delacourte/</loc>
+        <lastmod>2026-04-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://atelier-magazine.com/portrait-de-maison/chateau-leoube/</loc>
+        <lastmod>2026-04-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://atelier-magazine.com/decryptage/mouton-rothschild-etiquettes/</loc>
@@ -21,6 +39,60 @@
     <url>
         <loc>https://atelier-magazine.com/portrait-de-maison/maison-galimard/</loc>
         <lastmod>2026-04-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://atelier-magazine.com/decryptage/laguiole-couteau-icone/</loc>
+        <lastmod>2026-04-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://atelier-magazine.com/decryptage/aesop-soin-litterature/</loc>
+        <lastmod>2026-04-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://atelier-magazine.com/decryptage/jaeger-lecoultre-vallee-joux/</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://atelier-magazine.com/territoire/japon-france-excellence/</loc>
+        <lastmod>2026-03-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://atelier-magazine.com/dialogue/bois-tonnelier-luthier/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://atelier-magazine.com/bibliotheque/luxe-eternel-lipovetsky/</loc>
+        <lastmod>2026-03-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://atelier-magazine.com/methode/territoire-culturel-methode/</loc>
+        <lastmod>2026-03-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://atelier-magazine.com/methode/experience-sensorielle-boutique/</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://atelier-magazine.com/dialogue/transparence-verrier-parfumeur/</loc>
+        <lastmod>2026-03-12</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
