@@ -106,9 +106,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // — Inline newsletter after first paragraph —
-    const articleBody = document.getElementById('articleBody');
-    if (articleBody) {
-        const firstP = articleBody.querySelector('p');
+    const articleBodyEl = document.getElementById('articleBody');
+    if (articleBodyEl) {
+        const firstP = articleBodyEl.querySelector('p');
         if (firstP) {
             const bar = document.createElement('div');
             bar.className = 'article-inline-newsletter';
