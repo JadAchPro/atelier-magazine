@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Atelier</title>
+        <description>Art · Produit · Héritage — Le magazine qui explore les savoir-faire, les territoires et les maisons d&#39;exception.</description>
+        <link>https://atelier-magazine.com</link>
+        <language>fr</language>
+        <atom:link href="https://atelier-magazine.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>2026-04-15T00:00:00Z</lastBuildDate>
+        <item>
+            <title>Mouton Rothschild : quand l&#39;étiquette devient une œuvre</title>
+            <link>https://atelier-magazine.com/decryptage/mouton-rothschild-etiquettes/</link>
+            <guid isPermaLink="true">https://atelier-magazine.com/decryptage/mouton-rothschild-etiquettes/</guid>
+            <pubDate>2026-04-15T00:00:00Z</pubDate>
+            <description>De Picasso à Jeff Koons, Mouton Rothschild a transformé l&#39;étiquette de vin en galerie d&#39;art. Comment et pourquoi cette stratégie fonctionne-t-elle depuis 80 ans ?</description>
+        </item>
+        <item>
+            <title>La Méditerranée comme territoire de marque</title>
+            <link>https://atelier-magazine.com/territoire/mediterranee-savoir-faire/</link>
+            <guid isPermaLink="true">https://atelier-magazine.com/territoire/mediterranee-savoir-faire/</guid>
+            <pubDate>2026-04-12T00:00:00Z</pubDate>
+            <description>De la Provence à la Toscane, de la Catalogne à la Grèce : les marques méditerranéennes puisent dans leur terroir une identité unique.</description>
+        </item>
+        <item>
+            <title>Galimard, parfumeur à Grasse depuis 1747</title>
+            <link>https://atelier-magazine.com/portrait-de-maison/maison-galimard/</link>
+            <guid isPermaLink="true">https://atelier-magazine.com/portrait-de-maison/maison-galimard/</guid>
+            <pubDate>2026-04-09T00:00:00Z</pubDate>
+            <description>Fondée en 1747, la maison Galimard est la plus ancienne parfumerie de Grasse encore en activité. Rencontre avec ceux qui perpétuent l&#39;art du parfum.</description>
+        </item>
+    </channel>
+</rss>
